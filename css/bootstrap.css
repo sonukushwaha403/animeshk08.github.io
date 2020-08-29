@@ -5628,6 +5628,11 @@ a.bg-dark:hover {
     justify-content: center !important;
 }
 
+.aParent div {
+    float: left;
+    clear: none;
+}
+
 .justify-content-between {
     justify-content: space-between !important;
 }
