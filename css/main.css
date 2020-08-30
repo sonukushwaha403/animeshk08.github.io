@@ -1083,6 +1083,15 @@ h6 {
     text-decoration: underline;
 }
 
+.workex-link {
+    color: #222222;
+    text-decoration: underline;
+}
+
+.container-2:hover .image {
+    opacity: 0.7;
+}
+
 .genric-btn.link-border:hover {
     color: #222222;
     background: #f9f9ff;
@@ -1979,6 +1988,10 @@ nav a:hover {
 
 .section-gap {
     padding: 120px 0;
+}
+
+.section-gap-50 {
+    padding-top: 50px 0;
 }
 
 .section-footer {
