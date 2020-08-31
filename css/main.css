@@ -21,12 +21,12 @@
 
 ::-moz-selection {
     /* Code for Firefox */
-    background-color: #f5204b;
+    background-color: #777777;
     color: #fff;
 }
 
 ::selection {
-    background-color: #f5204b;
+    background-color: #777777;
     color: #fff;
 }
 
